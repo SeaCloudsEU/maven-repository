@@ -5,6 +5,12 @@ SeaClouds Maven repository
 [SeaClouds-banner]: http://www.seaclouds-project.eu/img/header_test.jpg  "SeaClouds Project"
 
 ==================
+How to use GitHub to host your own Maven repo
+-------------------
+http://kwebble.com/blog/2014/02/19/use-github-to-host-your-own-maven-repo
+
+
+
 Usage
 -------------------
 
